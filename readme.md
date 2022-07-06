@@ -13,6 +13,13 @@ Back-end Assignment
     Requirements in a brief:
     Deposit, Withdrawal, transfer, Transaction history and Transaction history filters.
     
+    *******************************
+    Need to create db in MySQL Server:-
+    Name: banking
+    After db creation, need to change the username & password from application.properties file
+    according to your machine.
+    *******************************
+    
     To perform each of above operations, first need to create bank account. 
     so I created few bank accounts by using below api:
     
